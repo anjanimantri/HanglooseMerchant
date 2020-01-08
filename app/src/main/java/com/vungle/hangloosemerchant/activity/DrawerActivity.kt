@@ -80,4 +80,7 @@ class DrawerActivity : AppCompatActivity(), NavigationView.OnNavigationItemSelec
         }
         return false
     }
+
+    override fun onBackPressed() {
+    }
 }
