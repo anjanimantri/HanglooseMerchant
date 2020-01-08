@@ -28,9 +28,6 @@
         <activity
                 android:name=".activity.LoginActivity"
                 android:theme="@style/AppThemeNoActionBar" />
-        <activity
-                android:name=".activity.LikeDisLikeRestaurantActivity"
-                android:theme="@style/AppThemeNoActionBar" />
     </application>
 
 </manifest>
