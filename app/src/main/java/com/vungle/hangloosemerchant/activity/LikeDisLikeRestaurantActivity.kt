@@ -73,4 +73,7 @@ class LikeDisLikeRestaurantActivity : AppCompatActivity(), SwipeRefreshLayout.On
             }
         })
     }
+
+    override fun onBackPressed() {
+    }
 }
