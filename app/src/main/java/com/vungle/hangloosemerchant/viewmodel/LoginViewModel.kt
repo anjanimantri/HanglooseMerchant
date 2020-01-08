@@ -1,7 +1,6 @@
 package com.vungle.hangloosemerchant.viewmodel
 
-import android.arch.lifecycle.ViewModel
-
+import androidx.lifecycle.ViewModel
 
 class LoginViewModel : ViewModel() {
 
